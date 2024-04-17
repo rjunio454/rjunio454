@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋 Eu sou Romário Ferreira</h1>
 <h3 align="center">Apaixonado por ciência e engenharia de dados no mundo digital.</h3>
 
-- 🔭 Atualmente estou estudando Bootcamp DiversiData Tech [Foco em Big Data](https://github.com/rjunio454/Bootcamp-DiversiData-Tech-PAN)
+- 🔭 Atualmente estou estudando MBA Data Engineering
 
 - 🌱 Atualmente estou aprendendo **Python, SQL, ETL e Frameworks de BigData**
 
